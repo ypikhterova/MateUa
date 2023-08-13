@@ -1,0 +1,11 @@
+//go to the store
+//.//span[text()='МАГАЗИН']
+
+//button to view shopping items
+//.//a[text()='Всі товари']
+
+//basket
+//.//div[@class='pniDPk']
+
+//filters
+//.//h2[@data-hook]

@@ -1,4 +1,4 @@
-package pages;
+package org.example.pages;
 
 import org.apache.log4j.Logger;
 import org.junit.Assert;

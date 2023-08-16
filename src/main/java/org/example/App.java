@@ -2,6 +2,7 @@ package org.example;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.example.libs.ConfigProvider;
+import org.example.pages.elements.Header;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -24,6 +25,12 @@ public class App
         webDriver.get(ConfigProvider.configProperties.BASE_URL());
 
         System.out.println("Opened site " + ConfigProvider.configProperties.BASE_URL());
+
+        Header header = new Header(webDriver);
+
+        header.clickOnCart();
+
+        System.out.println("Clicked on cart");
 
     }
 

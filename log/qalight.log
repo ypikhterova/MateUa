@@ -1,0 +1,16 @@
+2023-21-08 18:10:12   INFO [org.example.HomePageTest] : ----checkHomePage was started----
+2023-21-08 18:10:15   INFO [org.example.HomePageTest] : Browser was opened
+2023-21-08 18:10:16   INFO [org.example.HomePageTest] : Browser was closed
+2023-21-08 18:10:16   INFO [org.example.HomePageTest] : ----checkHomePage was ended----
+2023-21-08 18:12:25   INFO [org.example.HomePageTest] : ----checkHomePage was started----
+2023-21-08 18:12:28   INFO [org.example.HomePageTest] : Browser was opened
+2023-21-08 18:12:29   INFO [org.example.HomePageTest] : Browser was closed
+2023-21-08 18:12:29   INFO [org.example.HomePageTest] : ----checkHomePage was ended----
+2023-21-08 18:14:45   INFO [org.example.HomePageTest] : ----checkHomePage was started----
+2023-21-08 18:14:49   INFO [org.example.HomePageTest] : Browser was opened
+2023-21-08 18:14:50   INFO [org.example.HomePageTest] : Browser was closed
+2023-21-08 18:14:50   INFO [org.example.HomePageTest] : ----checkHomePage was ended----
+2023-21-08 18:16:05   INFO [org.example.HomePageTest] : ----checkHomePage was started----
+2023-21-08 18:16:09   INFO [org.example.HomePageTest] : Browser was opened
+2023-21-08 18:16:09   INFO [org.example.HomePageTest] : Browser was closed
+2023-21-08 18:16:09   INFO [org.example.HomePageTest] : ----checkHomePage was ended----

@@ -13,6 +13,16 @@ public abstract class ParentPage extends ActionsWithElements {
         baseUrl = ConfigProvider.configProperties.BASE_URL();
     }
 
+    //check url
+    // https://aqa-complexapp.onrender.com/ == BASE_URL+ "/"-> true
+    protected void checkCurrentUrl(String relativeUrl) {
+        Assert.assertEquals("Url is not expected", baseUrl + relativeUrl, webDriver.getCurrentUrl());
+    }
+
+    protected void checkUrl() {
+        checkCurrentUrl(getRelativeUrl());
+    }
+
     protected void openPage(String url) {
         try {
             webDriver.get(url);
@@ -23,7 +33,10 @@ public abstract class ParentPage extends ActionsWithElements {
         }
     }
 
-    public abstract void openPage();
+    public void openPage() {
+        openPage(baseUrl + getRelativeUrl());
+        checkUrl();
+    };
 
     protected abstract String getRelativeUrl();
 

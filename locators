@@ -8,4 +8,4 @@
 //.//div[@class='pniDPk']
 
 //filters
-//.//h2[@data-hook]
+//*[@id="TPASection_ldv9swwx"]/div/div/div/div[1]/aside/section/ul

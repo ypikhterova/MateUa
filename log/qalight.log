@@ -14,3 +14,29 @@
 2023-21-08 18:16:09   INFO [org.example.HomePageTest] : Browser was opened
 2023-21-08 18:16:09   INFO [org.example.HomePageTest] : Browser was closed
 2023-21-08 18:16:09   INFO [org.example.HomePageTest] : ----checkHomePage was ended----
+2023-21-08 18:48:26   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
+2023-21-08 18:48:29   INFO [org.example.AllProductsPageTest] : Browser was opened
+2023-21-08 18:48:47   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 18:48:47   INFO [org.example.AllProductsPageTest] : All products page was opened
+2023-21-08 18:48:47   INFO [org.example.AllProductsPageTest] : All filters are visible
+2023-21-08 18:48:48   INFO [org.example.AllProductsPageTest] : Browser was closed
+2023-21-08 18:48:48   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
+2023-21-08 18:50:53   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
+2023-21-08 18:50:56   INFO [org.example.AllProductsPageTest] : Browser was opened
+2023-21-08 18:51:13   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 18:51:13   INFO [org.example.AllProductsPageTest] : All products page was opened
+2023-21-08 18:51:13   INFO [org.example.AllProductsPageTest] : All filters are visible
+2023-21-08 18:51:14   INFO [org.example.AllProductsPageTest] : Browser was closed
+2023-21-08 18:51:14   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
+2023-21-08 18:58:22   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 19:07:26   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 19:10:13   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 19:16:55   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 19:17:25   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
+2023-21-08 19:17:29   INFO [org.example.AllProductsPageTest] : Browser was opened
+2023-21-08 19:17:31   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-21-08 19:17:31   INFO [org.example.AllProductsPageTest] : All products page was opened
+2023-21-08 19:17:31   INFO [org.example.AllProductsPageTest] : All filters are visible
+2023-21-08 19:17:31   INFO [org.example.AllProductsPageTest] : Number of filters is 4
+2023-21-08 19:17:32   INFO [org.example.AllProductsPageTest] : Browser was closed
+2023-21-08 19:17:32   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----

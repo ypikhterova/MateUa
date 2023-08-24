@@ -17,4 +17,12 @@ public class PageProvider {
         return new AllProductsPage(webDriver);
     }
 
+    public ProductPage getProductPage(String productName) {
+        return new ProductPage(webDriver, productName);
+    }
+
+    public CartPage getCartPage() {
+        return new CartPage(webDriver);
+    }
+
 }

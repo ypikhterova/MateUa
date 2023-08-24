@@ -4,10 +4,10 @@ package org.example;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.example.libs.ConfigProvider;
 import org.example.pages.AllProductsPage;
+import org.example.pages.CartPage;
 import org.example.pages.PageProvider;
-import org.openqa.selenium.By;
+import org.example.pages.ProductPage;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -35,7 +35,29 @@ public class App
 
         // List<WebElement> filtersListItems = webDriver.findElements(By.xpath("//*[@id=\"TPASection_ldv9swwx\"]/div/div/div/div[1]/aside/section/ul/li"));
 
-        System.out.println(String.format("Number og Filters is %d", allProductsPage.getFiltersListItems().size()));
+        String productName = allProductsPage.getProductName(0);
+
+        allProductsPage.clickOnProduct(0);
+
+        System.out.println(String.format("Product '%s' was opened", productName));
+
+        ProductPage productPage = new PageProvider(webDriver).getProductPage(productName);
+
+        System.out.println("Product page was opened");
+
+        productPage.selectSize(0);
+
+        System.out.println("Size was selected");
+
+        productPage.clickOnAddToCartButton();
+
+        System.out.println("Add to cart button was clicked");
+
+        CartPage cartPage = new PageProvider(webDriver).getCartPage();
+
+        cartPage.openPage();
+
+        System.out.println("Cart opened");
 
     }
 
@@ -65,5 +87,7 @@ public class App
         }
         return webDriver;
     }
+
+
 
 }

@@ -282,3 +282,89 @@
 2023-26-08 15:24:03   INFO [org.example.AddToCartTest] : Number of cart items is 1
 2023-26-08 15:24:04   INFO [org.example.AddToCartTest] : Browser was closed
 2023-26-08 15:24:04   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 15:50:19   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
+2023-26-08 15:50:23   INFO [org.example.AllProductsPageTest] : Browser was opened
+2023-26-08 15:50:27   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 15:50:27   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 15:50:28   INFO [org.example.pages.AllProductsPage] : All filters are visible
+2023-26-08 15:50:28   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
+2023-26-08 15:50:29   INFO [org.example.AllProductsPageTest] : Browser was closed
+2023-26-08 15:50:29   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
+2023-26-08 16:15:41   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:15:46   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:15:50   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:15:50   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:15:51   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-26-08 16:15:51   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-26-08 16:15:52   INFO [org.example.pages.ProductPage] : Page https://www.mate.ua/product-page/шкарпетки-сірі was opened
+2023-26-08 16:15:53   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:15:53   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 16:17:07   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:17:12   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:17:16   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:17:16   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:17:16   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-26-08 16:17:18   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-26-08 16:17:19   INFO [org.example.pages.ProductPage] : Page https://www.mate.ua/product-page/шкарпетки-сірі was opened
+2023-26-08 16:17:19   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:17:19   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 16:19:37   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
+2023-26-08 16:19:41   INFO [org.example.AllProductsPageTest] : Browser was opened
+2023-26-08 16:19:45   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:19:45   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:19:45   INFO [org.example.pages.AllProductsPage] : All filters are visible
+2023-26-08 16:19:45   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
+2023-26-08 16:19:46   INFO [org.example.AllProductsPageTest] : Browser was closed
+2023-26-08 16:19:46   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
+2023-26-08 16:20:06   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:20:12   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:20:15   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:20:15   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:20:15   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-26-08 16:20:17   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-26-08 16:20:17   INFO [org.example.pages.ProductPage] : Page https://www.mate.ua/product-page/шкарпетки-сірі was opened
+2023-26-08 16:20:17   INFO [org.example.pages.ProductPage] : Product page was opened
+2023-26-08 16:20:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-26-08 16:20:32   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-26-08 16:20:32   INFO [org.example.pages.ProductPage] : Size was selected
+2023-26-08 16:20:33   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-26-08 16:20:33   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-26-08 16:20:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-26-08 16:20:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-26-08 16:20:36   INFO [org.example.pages.CartPage] : Number of cart items is 1
+2023-26-08 16:20:36   INFO [org.example.pages.CartPage] : Product name is Шкарпетки сірі
+2023-26-08 16:20:37   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:20:37   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 16:21:11   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:21:15   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:21:18   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:21:18   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:21:18   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-26-08 16:21:21   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-26-08 16:21:21   INFO [org.example.pages.ProductPage] : Page https://www.mate.ua/product-page/шкарпетки-сірі was opened
+2023-26-08 16:21:22   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:21:22   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 16:28:33   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:28:38   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:28:42   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:28:43   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:28:43   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
+2023-26-08 16:30:25   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-26-08 16:30:29   INFO [org.example.AddToCartTest] : Browser was opened
+2023-26-08 16:30:35   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-26-08 16:30:35   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-26-08 16:30:35   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-26-08 16:30:35   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-26-08 16:30:36   INFO [org.example.pages.ProductPage] : Page https://www.mate.ua/product-page/шкарпетки-сірі was opened
+2023-26-08 16:30:36   INFO [org.example.pages.ProductPage] : Product page was opened
+2023-26-08 16:30:52   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-26-08 16:30:52   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-26-08 16:30:52   INFO [org.example.pages.ProductPage] : Size was selected
+2023-26-08 16:30:52   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-26-08 16:30:52   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-26-08 16:30:54   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-26-08 16:30:54   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-26-08 16:30:54   INFO [org.example.pages.CartPage] : Number of cart items is 1
+2023-26-08 16:30:54   INFO [org.example.pages.CartPage] : Product name is Шкарпетки сірі
+2023-26-08 16:30:55   INFO [org.example.AddToCartTest] : Browser was closed
+2023-26-08 16:30:55   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----

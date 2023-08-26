@@ -24,15 +24,29 @@ public class CartPage extends ParentPageWithHeader {
         return "/cart-page";
     }
 
-    public void checkNumberOfCartItems(int expectedNumberOfCartItems) {
-        Assert.assertEquals("Number of cart items is not as expected", expectedNumberOfCartItems, cartItems.size());
+    @Override
+    public CartPage openPage() {
+        openPage(baseUrl + getRelativeUrl());
+        checkUrl();
+        logger.info("Cart page was opened");
+        return this;
     }
 
-    public void checkProductName(int index, String expectedProductName) {
+    public CartPage checkNumberOfCartItems(int expectedNumberOfCartItems) {
+        Assert.assertEquals("Number of cart items is not as expected", expectedNumberOfCartItems, cartItems.size());
+        logger.info(String.format("Number of cart items is %d", expectedNumberOfCartItems));
+        return this;
+    }
+
+    public CartPage checkProductName(int index, String expectedProductName) {
 
         String actualProductName = cartItems.get(index).findElement(By.className("u3J7hK")).getText();
 
         Assert.assertEquals("Product name is not as expected", expectedProductName, actualProductName);
+
+        logger.info(String.format("Product name is %s", expectedProductName));
+
+        return this;
 
     }
 

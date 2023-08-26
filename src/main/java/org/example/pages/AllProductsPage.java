@@ -25,7 +25,15 @@ public class AllProductsPage extends ParentPageWithHeader {
         return "/shop";
     }
 
-    public boolean isFiltersListItemsVisible() {
+    @Override
+    public AllProductsPage openPage() {
+        openPage(baseUrl + getRelativeUrl());
+        checkUrl();
+        logger.info("All products page was opened");
+        return this;
+    }
+
+    private boolean isFiltersListItemsVisible() {
 
         boolean allVisible = true;
 
@@ -40,20 +48,28 @@ public class AllProductsPage extends ParentPageWithHeader {
 
     }
 
-    public List<WebElement> getFiltersListItems() {
-        return filtersListItems;
-    }
-
-    public void checkIsFiltersListItemsVisible() {
+    public AllProductsPage checkIsFiltersListItemsVisible() {
         Assert.assertTrue("Not all filters are visible", isFiltersListItemsVisible());
+        logger.info("All filters are visible");
+        return this;
     }
 
-    public void checkNumberOfFilters(int expectedNumberOfFilters) {
+    public AllProductsPage checkNumberOfFilters(int expectedNumberOfFilters) {
         Assert.assertEquals("Number of filters is not as expected", expectedNumberOfFilters, filtersListItems.size());
+        logger.info(String.format("Number of filters is %d", expectedNumberOfFilters));
+        return this;
     }
 
-    public void clickOnProduct(int productNumber) {
+    public ProductPage clickOnProduct(int productNumber) {
+
+        String productName = getProductName(productNumber);
+
+        logger.info(String.format("Product '%s' was opened", productName));
+
         clickOnElement(allProductsListItems.get(productNumber));
+
+        return new ProductPage(webDriver, productName).openPage();
+
     }
 
     public String getProductName(int index) {

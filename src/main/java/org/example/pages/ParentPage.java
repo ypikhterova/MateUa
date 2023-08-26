@@ -33,10 +33,7 @@ public abstract class ParentPage extends ActionsWithElements {
         }
     }
 
-    public void openPage() {
-        openPage(baseUrl + getRelativeUrl());
-        checkUrl();
-    };
+    public abstract ParentPage openPage();
 
     protected abstract String getRelativeUrl();
 

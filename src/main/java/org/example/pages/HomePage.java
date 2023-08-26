@@ -12,4 +12,12 @@ public class HomePage extends ParentPageWithHeader {
         return "/";
     }
 
+    @Override
+    public HomePage openPage() {
+        openPage(baseUrl + getRelativeUrl());
+        checkUrl();
+        logger.info("Home page was opened");
+        return this;
+    }
+
 }

@@ -1,6 +1,5 @@
 package org.example.pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -33,34 +32,44 @@ public class ProductPage extends ParentPageWithHeader {
         return "/product-page/" + productName.toLowerCase().replace(" ", "-");
     }
 
-    public void selectSize(int index) {
+    @Override
+    public ProductPage openPage() {
+        openPage(baseUrl + getRelativeUrl());
+        logger.info("Product page was opened");
+        return this;
+    }
 
-        // List<WebElement> dropdownItems = null;
+    public ProductPage selectSize(int index) {
 
-        // int attempts = 0;
-
-        while (dropdownItems.size() == 0) {
-
-            // attempts++;
-
+        while (dropdownItems.size() == 0)
             clickOnElement(selectSizeDropdown);
 
-            // dropdownItems = webDriver.findElements(By.xpath("//*[starts-with(@id, 'dropdown-options-container_-1_option-')]"));
-
-            // logger.info("Attempt #" + attempts + " to get dropdown items.");
-
-        }
-
         if (index >= 0 && index < dropdownItems.size()) {
+
             clickOnElement(dropdownItems.get(index));
+
+            logger.info("Size was selected");
+
+            return this;
+
         } else {
             throw new IndexOutOfBoundsException("Index is out of bounds.");
         }
 
     }
 
-    public void clickOnAddToCartButton() {
+    public ProductPage selectFirstSize() {
+        return selectSize(0);
+    }
+
+    public CartPage addProductToCart() {
+
         clickOnElement(addToCartButton);
+
+        logger.info("Product was added to cart");
+
+        return new CartPage(webDriver).openPage();
+
     }
 
 }

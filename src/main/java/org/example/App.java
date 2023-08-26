@@ -22,42 +22,42 @@ public class App
 {
     public static void main( String[] args ) {
 
-        WebDriver webDriver = initDriver();
-        webDriver.manage().window().maximize();
-        webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(ConfigProvider.configProperties.TIME_FOR_DEFAULT_WAIT()));
-        System.out.println("Browser was opened");
-
-        AllProductsPage allProductsPage = new PageProvider(webDriver).getAllProductsPage();
-
-        allProductsPage.openPage();
-
-        System.out.println("All products page was opened");
-
-        // List<WebElement> filtersListItems = webDriver.findElements(By.xpath("//*[@id=\"TPASection_ldv9swwx\"]/div/div/div/div[1]/aside/section/ul/li"));
-
-        String productName = allProductsPage.getProductName(0);
-
-        allProductsPage.clickOnProduct(0);
-
-        System.out.println(String.format("Product '%s' was opened", productName));
-
-        ProductPage productPage = new PageProvider(webDriver).getProductPage(productName);
-
-        System.out.println("Product page was opened");
-
-        productPage.selectSize(0);
-
-        System.out.println("Size was selected");
-
-        productPage.clickOnAddToCartButton();
-
-        System.out.println("Add to cart button was clicked");
-
-        CartPage cartPage = new PageProvider(webDriver).getCartPage();
-
-        cartPage.openPage();
-
-        System.out.println("Cart opened");
+//        WebDriver webDriver = initDriver();
+//        webDriver.manage().window().maximize();
+//        webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(ConfigProvider.configProperties.TIME_FOR_DEFAULT_WAIT()));
+//        System.out.println("Browser was opened");
+//
+//        AllProductsPage allProductsPage = new PageProvider(webDriver).getAllProductsPage();
+//
+//        allProductsPage.openPage();
+//
+//        System.out.println("All products page was opened");
+//
+//        // List<WebElement> filtersListItems = webDriver.findElements(By.xpath("//*[@id=\"TPASection_ldv9swwx\"]/div/div/div/div[1]/aside/section/ul/li"));
+//
+//        String productName = allProductsPage.getProductName(0);
+//
+//        allProductsPage.clickOnProduct(0);
+//
+//        System.out.println(String.format("Product '%s' was opened", productName));
+//
+//        ProductPage productPage = new PageProvider(webDriver).getProductPage(productName);
+//
+//        System.out.println("Product page was opened");
+//
+//        productPage.selectSize(0);
+//
+//        System.out.println("Size was selected");
+//
+//        productPage.clickOnAddToCartButton();
+//
+//        System.out.println("Add to cart button was clicked");
+//
+//        CartPage cartPage = new PageProvider(webDriver).getCartPage();
+//
+//        cartPage.openPage();
+//
+//        System.out.println("Cart opened");
 
     }
 

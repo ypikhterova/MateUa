@@ -11,7 +11,7 @@ public class ProductPage extends ParentPageWithHeader {
 
     private final String productName;
 
-    @FindBy(xpath = "//*[@id=\"label-for-id_-698\"]")
+    @FindBy(xpath = "//*[@id=\"TPAMultiSection_ldv9szsf\"]/div/div/article/div[1]/section[2]/div[7]/div[1]/div/div[1]/div/div[2]")
     private WebElement selectSizeDropdown;
 
     @FindBy(xpath = "//*[starts-with(@id, 'dropdown-options-container_-1_option-')]")
@@ -19,9 +19,6 @@ public class ProductPage extends ParentPageWithHeader {
 
     @FindBy(xpath = "//*[@id=\"TPAMultiSection_ldv9szsf\"]/div/div/article/div[1]/section[2]/div[7]/div[2]/button")
     private WebElement addToCartButton;
-
-//    @FindBy(xpath = "//*[@id=\"widget-view-cart-button\"]")
-//    private WebElement openCartButton;
 
     public ProductPage(WebDriver webDriver, String productName) {
 
@@ -38,7 +35,21 @@ public class ProductPage extends ParentPageWithHeader {
 
     public void selectSize(int index) {
 
-        clickOnElement(selectSizeDropdown);
+        // List<WebElement> dropdownItems = null;
+
+        // int attempts = 0;
+
+        while (dropdownItems.size() == 0) {
+
+            // attempts++;
+
+            clickOnElement(selectSizeDropdown);
+
+            // dropdownItems = webDriver.findElements(By.xpath("//*[starts-with(@id, 'dropdown-options-container_-1_option-')]"));
+
+            // logger.info("Attempt #" + attempts + " to get dropdown items.");
+
+        }
 
         if (index >= 0 && index < dropdownItems.size()) {
             clickOnElement(dropdownItems.get(index));

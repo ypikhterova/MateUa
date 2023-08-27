@@ -8,7 +8,7 @@ public class AddToCartTest extends BaseTest {
     @Test
     public void checkAddToCart() {
 
-        int productIndex = 0;
+        int productIndex = 1;
 
         AllProductsPage allProductsPage = pageProvider.getAllProductsPage().openPage();
 
@@ -18,7 +18,7 @@ public class AddToCartTest extends BaseTest {
                 .selectFirstSize()
                 .addProductToCart()
                 .checkNumberOfCartItems(1)
-                .checkProductName(productIndex, productName);
+                .checkProductName(0, productName);
 
     }
 

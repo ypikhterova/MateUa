@@ -1,5 +1,7 @@
 package org.example.pages;
 
+import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -18,6 +20,9 @@ public class ProductPage extends ParentPageWithHeader {
 
     @FindBy(xpath = "//*[@id=\"TPAMultiSection_ldv9szsf\"]/div/div/article/div[1]/section[2]/div[7]/div[2]/button")
     private WebElement addToCartButton;
+
+    @FindBy(xpath = "//*[@id=\"TPAMultiSection_ldv9szsf\"]/div/div/article/div[1]/section[2]/div[7]/div[1]/div/div[1]/div/div[2]/div[2]/div[2]")
+    private WebElement noSizeSelectedMessage;
 
     public ProductPage(WebDriver webDriver, String productName) {
 
@@ -62,6 +67,31 @@ public class ProductPage extends ParentPageWithHeader {
         return selectSize(0);
     }
 
+    public int getNumberOfSizes() {
+
+        while (dropdownItems.size() == 0)
+            clickOnElement(selectSizeDropdown);
+
+        logger.info(String.format("Number of sizes is %d", dropdownItems.size()));
+
+        int numberOfSizes = dropdownItems.size();
+
+        clickOnElement(selectSizeDropdown);
+
+        return numberOfSizes;
+
+    }
+
+    public ProductPage clickAddToCartButton() {
+
+        clickOnElement(addToCartButton);
+
+        logger.info("Add to cart button was clicked");
+
+        return this;
+
+    }
+
     public CartPage addProductToCart() {
 
         clickOnElement(addToCartButton);
@@ -69,6 +99,22 @@ public class ProductPage extends ParentPageWithHeader {
         logger.info("Product was added to cart");
 
         return new CartPage(webDriver).openPage();
+
+    }
+
+    public void checkNoSizeSelectedMessageDisplayed() {
+
+        checkElementDisplayed(noSizeSelectedMessage);
+
+        logger.info("No size selected message is displayed");
+
+        Assert.assertEquals(
+                "No size selected message text is not as expected",
+                "Оберіть Розмір",
+                noSizeSelectedMessage.findElement(By.tagName("div")).getText()
+        );
+
+        logger.info("No size selected message text is as expected");
 
     }
 

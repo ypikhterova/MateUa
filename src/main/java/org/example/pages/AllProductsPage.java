@@ -68,8 +68,44 @@ public class AllProductsPage extends ParentPageWithHeader {
 
         clickOnElement(allProductsListItems.get(productNumber));
 
-        return new ProductPage(webDriver, productName).openPage();
+        return new ProductPage(webDriver, productName);
 
+    }
+
+    public ProductPage findFirstProductWithMultipleSizes(int startIndex) {
+
+        int index = startIndex;
+
+        int numberOfSizes;
+        ProductPage productPage;
+
+        while (true) {
+
+            try {
+                productPage = clickOnProduct(index);
+            } catch (IndexOutOfBoundsException e) {
+                throw new RuntimeException("No product with multiple sizes was found.");
+            }
+
+            numberOfSizes = productPage.getNumberOfSizes();
+
+            if (numberOfSizes > 1) {
+                logger.info(String.format("Product has %d sizes", numberOfSizes));
+                return productPage;
+            }
+
+            logger.info("Product has only one size, opening next product");
+
+            openPage();
+
+            index++;
+
+        }
+
+    }
+
+    public ProductPage findFirstProductWithMultipleSizes() {
+        return findFirstProductWithMultipleSizes(0);
     }
 
     public String getProductName(int index) {

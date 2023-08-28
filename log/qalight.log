@@ -1612,3 +1612,1200 @@
 2023-28-08 14:11:46   INFO [org.example.pages.CartPage] : Total sum is as expected: 1200,000000
 2023-28-08 14:11:47   INFO [org.example.CartSumCheckTest] : Browser was closed
 2023-28-08 14:11:47   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-28-08 14:21:21   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:21:21   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:21:21   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:21:24   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:21:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:26   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:21:26   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:21:26   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:21:26   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:21:28   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:21:29   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:21:30   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:21:30   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:21:30   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:21:34   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:21:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:21:35   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:21:37   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:21:37   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:24:53   INFO [org.example.DeleteProductTest] : ----checkDeleteProduct was started----
+2023-28-08 14:24:58   INFO [org.example.DeleteProductTest] : Browser was opened
+2023-28-08 14:25:01   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:25:01   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:25:01   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:25:03   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:25:18   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:25:18   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:25:18   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:25:18   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:25:18   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:25:20   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:25:20   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:25:22   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:25:22   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:25:22   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:25:24   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:25:39   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:25:39   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:25:39   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:25:39   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:25:39   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:25:41   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:25:41   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:25:42   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:25:43   INFO [org.example.DeleteProductTest] : Browser was closed
+2023-28-08 14:25:43   INFO [org.example.DeleteProductTest] : ----checkDeleteProduct was ended----
+2023-28-08 14:27:05   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:27:05   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:27:05   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:27:07   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:27:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:09   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:27:09   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:27:09   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:27:09   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:27:12   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:27:12   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:27:14   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:27:14   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:27:14   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:27:16   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:27:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:27:17   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:27:20   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:27:20   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:27:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:27:20   INFO [org.example.pages.CartPage] : Product was deleted from cart
+2023-28-08 14:32:12   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:32:12   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:32:13   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:32:15   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:32:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:32:16   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:32:19   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:19   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:20   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:32:20   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:32:20   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:32:22   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:32:22   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:22   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:22   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:32:23   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:32:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:27   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:30   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:30   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:32   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:32   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:32   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:33   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:35   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:35   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:35   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:37   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:37   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:40   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:40   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:40   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:40   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:42   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:42   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:42   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:42   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:45   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:45   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:47   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:47   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:50   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:50   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:50   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:50   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:52   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:52   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:55   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:55   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:32:58   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:32:58   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:32:58   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:32:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:00   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:33:00   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:33:01   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:01   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:02   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:33:22   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:33:22   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:33:23   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:33:24   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:33:26   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:26   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:33:26   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:33:26   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:33:26   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:33:28   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:33:28   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:33:29   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:33:29   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:33:29   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:33:31   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:33:31   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:33:33   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:33:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:36   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:37   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:38   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:33:39   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:33:39  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f53838eae0f33f45dfa836f4025626c, isElementDisplayed {id=C4B2B3FD19776973029685BE287AEF46_element_132}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56537}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56537/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (1f53838eae0f33f45dfa836f4025626c)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: 1f53838eae0f33f45dfa836f4025626c
+2023-28-08 14:36:48   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:36:48   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:36:48   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:36:49   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:36:52   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:52   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:36:52   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:36:52   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:36:52   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:36:55   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:36:55   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:36:56   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:36:56   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:36:56   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:36:58   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:36:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:36:59   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:37:01   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:37:01   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:37:01   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:01   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:02   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:03   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:04   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:37:05   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:37:05  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [487b275989a075e791b0a38cd277f4d4, clickElement {id=6F1F75579242D3076EC46DE0C1C3363F_element_133}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56767}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56767/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (487b275989a075e791b0a38cd277f4d4)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: 487b275989a075e791b0a38cd277f4d4
+2023-28-08 14:37:53   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:37:53   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:37:53   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:37:55   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:37:56   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:37:56   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:37:56   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:37:56   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:37:57   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:37:57   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:37:57   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:37:57   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:38:00   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:38:00   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:38:02   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:38:02   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:38:02   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:38:04   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:38:04   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:04   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:38:05   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:38:06   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:38:06   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:38:08   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:38:08   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:38:08   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:38:08   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:38:08   INFO [org.example.pages.CartPage] : Product was deleted from cart
+2023-28-08 14:43:12   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:43:12   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:43:12   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:43:15   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:43:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:43:16   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:43:17   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:43:17   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:43:19   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:43:19   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:43:21   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:43:21   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:43:21   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:43:22   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:43:24   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:43:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:43:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:43:27   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:27   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:29   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:30   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:31   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:31   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:31   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:43:31   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:43:31  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c48360509ff49bb67cc8d86ffffc1f2, clickElement {id=C4DCE88C40304B522164172F4CE86697_element_146}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57205}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57205/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (1c48360509ff49bb67cc8d86ffffc1f2)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: 1c48360509ff49bb67cc8d86ffffc1f2
+2023-28-08 14:47:56   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:47:56   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:47:56   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:47:58   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:47:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:47:59   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:48:00   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:48:00   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:48:02   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:48:02   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:48:03   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:48:03   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:48:03   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:48:06   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:48:06   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:48:08   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:48:08   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:48:08   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:48:08   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:48:10   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:48:10   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:48:10   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:10   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:10   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:11   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:12   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:13   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:48:14   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:48:14  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f822d9cecd0fed99f689d011b1d2e28b, clickElement {id=DB86F548293307F6C9B03E680AB68DBE_element_144}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57483}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57483/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (f822d9cecd0fed99f689d011b1d2e28b)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: f822d9cecd0fed99f689d011b1d2e28b
+2023-28-08 14:50:31   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:50:31   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:50:31   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:50:33   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:50:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:50:34   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:50:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:50:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:50:38   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:50:38   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:50:38   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:50:40   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:50:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:50:41   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:50:42   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:50:42   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:50:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:50:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:50:43   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:44   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:44   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:44   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:44   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:45   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:46   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:50:47   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:50:47  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eb750c7ae2261dc128fee177c312629b, clickElement {id=C3A52C676B7E4482F1040CDBEE1B5F17_element_140}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57660}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57660/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (eb750c7ae2261dc128fee177c312629b)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: eb750c7ae2261dc128fee177c312629b
+2023-28-08 14:53:38   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:53:38   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:53:38   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:53:40   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:53:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:53:41   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:53:44   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:53:44   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:53:46   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:53:46   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:53:46   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:53:47   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:53:49   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:53:51   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:53:51   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:53:51   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:51   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:51   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:52   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:53   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:54   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:53:55   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:53:55  ERROR [org.example.pages.CartPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.111)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ee856b8db4884df8dc26cf680348613, clickElement {id=A86AC0D20DB21ACC440F4C742C9068B6_element_144}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\IUADE0L3\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57848}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57848/devtoo..., se:cdpVersion: 116.0.5845.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (3ee856b8db4884df8dc26cf680348613)] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li]] -> xpath: //*[@id="TPAMultiSection_ldv9t2f9"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button]
+Session ID: 3ee856b8db4884df8dc26cf680348613
+2023-28-08 14:58:04   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:58:04   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:58:04   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:58:06   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:58:06   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:06   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:58:07   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:58:10   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:58:10   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:58:11   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:58:11   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:58:11   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:58:13   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:58:13   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:13   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:58:14   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:58:15   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:58:15   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:17   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:18   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:19   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:20   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:21   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:21   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:21   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:58:21   INFO [org.example.pages.CartPage] : Trying to delete product from cart
+2023-28-08 14:58:21   INFO [org.example.pages.CartPage] : Product was deleted from cart
+2023-28-08 14:58:23   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:58:23   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:59:44   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:59:44   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:59:45   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:59:46   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:59:47   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:59:48   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:59:48   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:59:49   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:59:49   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:59:51   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:59:51   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:59:51   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 14:59:53   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:59:53   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:59:54   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:59:55   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:59:55   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:59:57   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:59:57   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:59:57   INFO [org.example.pages.CartPage] : Attempt #1 to delete product
+2023-28-08 14:59:57   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:57   INFO [org.example.pages.CartPage] : Attempt #2 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #3 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #4 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #5 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #6 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #7 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #8 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #9 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #10 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #11 to delete product
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:58   INFO [org.example.pages.CartPage] : Attempt #12 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #13 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #14 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #15 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #16 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #17 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #18 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #19 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #20 to delete product
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 14:59:59   INFO [org.example.pages.CartPage] : Attempt #21 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #22 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #23 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #24 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #25 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #26 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #27 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #28 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #29 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #30 to delete product
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:00   INFO [org.example.pages.CartPage] : Attempt #31 to delete product
+2023-28-08 15:00:01   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:01   INFO [org.example.pages.CartPage] : Attempt #32 to delete product
+2023-28-08 15:00:01   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:00:01   INFO [org.example.pages.CartPage] : Attempt #33 to delete product
+2023-28-08 15:00:01   INFO [org.example.pages.CartPage] : Product #0 was deleted after 33 attempts
+2023-28-08 15:00:03   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:00:03   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:00:58   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 15:00:58   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 15:00:58   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 15:01:01   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 15:01:01   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:01   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 15:01:02   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 15:01:03   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 15:01:03   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 15:01:05   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:01:05   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:01:06   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 15:01:06   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 15:01:06   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 15:01:08   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:09   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 15:01:10   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:14   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:15   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:16   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:17   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:01:18   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:05:38   INFO [org.example.DeleteProductTest] : ----checkDeleteProduct was started----
+2023-28-08 15:05:42   INFO [org.example.DeleteProductTest] : Browser was opened
+2023-28-08 15:05:45   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 15:05:45   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 15:05:46   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 15:05:48   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 15:06:03   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:06:03   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 15:06:03   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 15:06:03   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 15:06:03   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 15:06:05   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:06:05   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:06:07   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 15:06:07   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 15:06:07   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки молочні' was opened
+2023-28-08 15:06:07   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 15:06:23   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 15:06:23   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 15:06:23   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 15:06:23   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 15:06:23   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 15:06:25   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:06:25   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:26   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:27   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:28   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:29   INFO [org.example.pages.CartPage] : видалити товар Шкарпетки зелені з кошика Element was clicked
+2023-28-08 15:06:30   INFO [org.example.pages.CartPage] : Product #1 was deleted
+2023-28-08 15:06:31   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 15:06:31   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 15:06:31   INFO [org.example.pages.CartPage] : Number of cart items is 1
+2023-28-08 15:06:32   INFO [org.example.DeleteProductTest] : Browser was closed
+2023-28-08 15:06:32   INFO [org.example.DeleteProductTest] : ----checkDeleteProduct was ended----

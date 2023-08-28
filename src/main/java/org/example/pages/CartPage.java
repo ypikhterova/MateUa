@@ -2,12 +2,12 @@ package org.example.pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 public class CartPage extends ParentPageWithHeader {
 
@@ -72,7 +72,29 @@ public class CartPage extends ParentPageWithHeader {
 
         productPage.addProductToCart();
 
+        logger.info("Product was added to cart");
+
         return this;
+
+    }
+
+    public CartPage deleteProduct(int index) {
+
+        while (true) {
+
+            try {;
+
+                clickOnElementThrowable(cartItems.get(index).findElement(By.xpath("//*[@id=\"TPAMultiSection_ldv9t2f9\"]/div/div/div/main/main/section/div[2]/ul/li[1]/div/div/div[2]/button")));
+
+            } catch (StaleElementReferenceException e) {
+                break;
+            }
+
+        }
+
+        logger.info(String.format("Product #%d was deleted", index + 1));
+
+        return openPage();
 
     }
 

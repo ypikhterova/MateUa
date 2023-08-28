@@ -7,13 +7,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 public class CartPage extends ParentPageWithHeader {
 
     @FindBy(xpath = "//*[@id=\"TPAMultiSection_ldv9t2f9\"]/div/div/div/main/main/section/div[2]/ul/li")
     private List<WebElement> cartItems;
 
-    private final String productNameXpath = "";
+    @FindBy(xpath = "//*[@id=\"total-sum\"]")
+    private WebElement totalSum;
 
     public CartPage(WebDriver webDriver) {
         super(webDriver);
@@ -40,7 +42,7 @@ public class CartPage extends ParentPageWithHeader {
 
     public CartPage checkProductName(int index, String expectedProductName) {
 
-        String actualProductName = cartItems.get(index).findElement(By.className("u3J7hK")).getText();
+        String actualProductName = getProductName(index);
 
         Assert.assertEquals("Product name is not as expected", expectedProductName, actualProductName);
 
@@ -48,6 +50,59 @@ public class CartPage extends ParentPageWithHeader {
 
         return this;
 
+    }
+
+    public double getProductPrice(int index) {
+
+        String actualProductPrice = cartItems.get(index)
+                .findElement(By.className("BjY0SH"))
+                .findElement(By.tagName("span")).getText();
+
+        return Double.parseDouble(actualProductPrice.substring(0, actualProductPrice.length() - 1).replace(" ", "").replace(",", "."));
+
+    }
+
+    public CartPage incrementNumberOfProducts(int index) {
+
+        ProductPage productPage = new ProductPage(webDriver, getProductName(index));
+
+        clickOnElement(cartItems.get(index).findElements(By.tagName("img")).get(0));
+
+        productPage.selectFirstSize();
+
+        productPage.addProductToCart();
+
+        return this;
+
+    }
+
+    public double getTotalSum() {
+
+        String actualTotalSum = totalSum.getText();
+
+        return Double.parseDouble(actualTotalSum.substring(0, actualTotalSum.length() - 1).replace(" ", "").replace(",", "."));
+
+    }
+
+    public void checkTotalSumDifference(int index) {
+
+        double initialTotalSum = getTotalSum();
+        double ProductPrice = getProductPrice(index);
+
+        double expectedTotalSum = initialTotalSum + ProductPrice;
+
+        incrementNumberOfProducts(index);
+
+        double actualTotalSum = getTotalSum();
+
+        Assert.assertEquals("Total sum is not as expected", expectedTotalSum, actualTotalSum, 0.01);
+
+        logger.info(String.format("Total sum is as expected: %f", expectedTotalSum));
+
+    }
+
+    public String getProductName(int index) {
+        return cartItems.get(index).findElement(By.className("u3J7hK")).getText();
     }
 
 }

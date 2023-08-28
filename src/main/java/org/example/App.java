@@ -10,18 +10,21 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
+import java.util.concurrent.TimeUnit;
+
 
 public class App
 {
 
     public static void main( String[] args ) {
 
-        int productIndex = 5;
+        int productIndex = 1;
 
         new PageProvider(initDriver()).getAllProductsPage().openPage()
-                .findFirstProductWithMultipleSizes(productIndex)
-                .clickAddToCartButton()
-                .checkNoSizeSelectedMessageDisplayed();
+                .clickOnProduct(productIndex)
+                .selectFirstSize()
+                .addProductToCart()
+                .checkTotalSumDifference(0);
 
     }
 

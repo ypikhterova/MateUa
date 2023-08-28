@@ -780,3 +780,835 @@
 2023-27-08 16:50:39   INFO [org.example.pages.ProductPage] : No size selected message text is as expected
 2023-27-08 16:50:40   INFO [org.example.SizeValidationTest] : Browser was closed
 2023-27-08 16:50:40   INFO [org.example.SizeValidationTest] : ----checkSizeValidation was ended----
+2023-27-08 20:05:47   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:05:52   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:05:56   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:05:56   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:05:56   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:05:59   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:06:14   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:06:15   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:06:15   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:06:15   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:06:15   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:06:18   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:06:18   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:06:19   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:06:19   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:17:07   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:17:12   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:17:16   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:17:16   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:17:16   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:17:17   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:17:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:17:32   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:17:32   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:17:32   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:17:32   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:17:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:17:35   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:17:36   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:17:36   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:19:18   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:19:22   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:19:25   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:19:25   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:19:25   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:19:27   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:19:42   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:19:43   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:19:43   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:19:43   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:19:43   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:19:45   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:19:45   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:19:46   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:19:46   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:25:08   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:25:13   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:25:17   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:25:17   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:25:17   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:25:18   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:25:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:25:34   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:25:34   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:25:34   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:25:34   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:25:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:25:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:25:37   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:25:37   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:26:34   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:26:39   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:26:42   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:26:42   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:26:42   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:26:44   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:26:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:26:59   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:26:59   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:26:59   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:26:59   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:27:02   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:27:02   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:27:03   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:27:03   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:34:25   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:34:29   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:34:32   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:34:32   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:34:33   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:34:34   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:34:50   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:34:50   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:34:50   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:34:50   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:34:50   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:34:53   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:34:53   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:35:09   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:35:09   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:37:05   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:37:10   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:37:13   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:37:13   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:37:13   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:37:15   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:37:30   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:37:30   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:37:30   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:37:30   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:37:30   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:37:33   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:37:33   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:37:49   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:37:49   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:38:31   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:38:35   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:38:38   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:38:38   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:38:39   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:38:39   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:38:54   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:38:54   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:38:54   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:38:54   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:38:54   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:38:57   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:38:57   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:39:13   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:39:13   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:41:38   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:41:43   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:41:51   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:41:51   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:41:51   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:41:52   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:42:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:42:07   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:42:07   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:42:07   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:42:07   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:42:10   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:42:10   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:43:04   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:43:04   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:45:02   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:45:07   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:45:10   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:45:10   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:45:10   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:45:11   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:45:26   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:45:26   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:45:26   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:45:26   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:45:26   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:45:28   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:45:28   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:45:44   INFO [org.example.pages.CartPage] : Attempt #1 failed
+2023-27-08 20:45:59   INFO [org.example.pages.CartPage] : Attempt #2 failed
+2023-27-08 20:46:14   INFO [org.example.pages.CartPage] : Attempt #3 failed
+2023-27-08 20:46:29   INFO [org.example.pages.CartPage] : Attempt #4 failed
+2023-27-08 20:46:44   INFO [org.example.pages.CartPage] : Attempt #5 failed
+2023-27-08 20:46:53   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 20:46:53   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 20:57:19   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 20:57:24   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 20:57:28   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 20:57:28   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 20:57:28   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 20:57:31   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 20:57:46   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 20:57:46   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 20:57:46   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 20:57:46   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 20:57:46   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 20:57:50   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 20:57:50   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 20:58:05   INFO [org.example.pages.CartPage] : Attempt #1 failed
+2023-27-08 20:58:20   INFO [org.example.pages.CartPage] : Attempt #2 failed
+2023-27-08 20:58:35   INFO [org.example.pages.CartPage] : Attempt #3 failed
+2023-27-08 20:58:50   INFO [org.example.pages.CartPage] : Attempt #4 failed
+2023-27-08 20:59:05   INFO [org.example.pages.CartPage] : Attempt #5 failed
+2023-27-08 20:59:20   INFO [org.example.pages.CartPage] : Attempt #6 failed
+2023-27-08 21:03:43   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:03:47   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:03:50   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:03:50   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:03:51   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:03:52   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:04:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:04:07   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:04:07   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:04:07   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:04:07   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:04:10   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:04:10   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:04:10   INFO [org.example.pages.CartPage] : 2 was inputted into input Обрати кількість
+2023-27-08 21:04:11   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:04:11   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:23:35   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:23:40   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:23:44   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:23:44   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:23:44   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:23:46   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:24:01   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:24:01   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:24:01   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:24:01   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:24:01   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:24:04   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:24:04   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:24:04   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:24:05   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:24:05   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:30:27   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:30:31   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:30:36   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:30:36   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:30:36   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:30:37   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:30:52   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:30:52   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:30:52   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:30:52   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:30:52   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:30:55   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:30:55   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:30:55   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:31:01   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:31:01   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:36:15   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:36:19   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:36:24   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:36:24   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:36:24   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:36:24   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:36:39   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:36:39   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:36:39   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:36:40   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:36:40   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:36:42   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:36:42   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:36:43   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:36:43   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-27-08 21:36:44   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:36:44   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:37:41   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:37:45   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:37:49   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:37:49   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:37:49   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:37:51   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:38:06   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:38:21   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:38:36   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:38:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:39:06   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:39:21   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:39:37   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:40:15   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:40:20   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:40:24   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:40:24   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:40:24   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:40:26   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:40:41   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:40:42   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:40:42   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:40:42   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:40:42   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:40:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:40:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:40:59   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:40:59   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:41:37   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:41:42   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:41:45   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:41:45   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:41:46   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:41:46   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:42:02   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:42:02   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:42:02   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:42:02   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:42:02   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:42:11   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:42:11   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:42:27   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:42:27   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:47:47   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:47:52   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:47:56   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:47:56   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:47:56   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:47:58   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:48:13   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:48:13   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:48:13   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:48:13   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:48:13   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:48:16   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:48:16   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:48:16   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:48:17   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:48:17   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:48:45   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:49:06   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:49:10   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:49:16   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:49:16   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:49:16   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:49:16   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:49:31   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:49:32   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:49:32   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:49:32   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:49:32   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:49:34   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:49:34   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:49:35   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:49:35   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-27-08 21:49:36   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:49:36   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:55:59   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:56:04   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:56:08   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:56:08   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:56:08   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:56:10   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:56:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:56:25   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:56:25   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:56:25   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:56:25   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:56:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:56:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:56:28   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:56:29   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:56:29   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-27-08 21:57:03   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-27-08 21:57:07   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-27-08 21:57:11   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-27-08 21:57:11   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-27-08 21:57:11   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-27-08 21:57:12   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-27-08 21:57:27   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-27-08 21:57:28   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-27-08 21:57:28   INFO [org.example.pages.ProductPage] : Size was selected
+2023-27-08 21:57:28   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-27-08 21:57:28   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-27-08 21:57:32   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-27-08 21:57:32   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-27-08 21:57:32   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-27-08 21:57:32   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-27-08 21:57:33   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-27-08 21:57:33   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-28-08 13:29:27   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
+2023-28-08 13:29:34   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-28-08 13:29:40   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-28-08 13:29:43   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:29:43   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:29:43   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 13:29:45   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:30:00   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:30:00   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:30:00   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:30:01   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:30:01   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:30:03   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:30:03   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:30:03   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:30:04   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-28-08 13:30:05   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-28-08 13:30:05   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-28-08 13:31:40   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:31:40   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:31:40   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 13:31:42   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:31:43   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:31:43   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:31:43   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:31:43   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:31:44   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:31:44   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:31:44   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:31:44   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:31:44   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:31:46   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:31:46   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:31:46   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:31:47   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-28-08 13:32:13   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:32:13   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:32:14   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 13:32:14   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:32:17   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:32:17   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:32:17   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:32:17   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:32:17   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:32:20   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:32:20   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:32:21   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:32:21   INFO [org.example.pages.CartPage] : Введіть промокод Element was clicked
+2023-28-08 13:34:37   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:34:37   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:34:37   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 13:34:39   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:34:39   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:39   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:34:40   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:34:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:34:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:34:43   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:35:43   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:35:43   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:35:44   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:35:44   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:35:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:35:47   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:35:47   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:35:47   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:35:47   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:35:49   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:35:50   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:35:50   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:37:28   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:37:28   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:37:28   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:37:31   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:37:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:32   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:33   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:37:33   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:37:33   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:37:33   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:37:33   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:37:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:37:35   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:37:35   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:40:40   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:40:40   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:40:40   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:40:42   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:40:43   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:40:43   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:40:43   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:40:44   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:40:44   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:40:46   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:40:46   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:40:47   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:40:48   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:40:49   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:22   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:44:22   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:44:22   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:44:23   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:44:24   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:44:24   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:44:24   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:44:24   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:44:24   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:44:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:28   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:30   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:30   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:31   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:33   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:33   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:33   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:36   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:37   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:37   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:38   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:40   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:40   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:40   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:43   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:45   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:45   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:45   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:48   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:48   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:48   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:50   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:50   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:50   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:52   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:52   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:52   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:54   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:54   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:55   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:44:57   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:44:57   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:44:58   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:01   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:01   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:02   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:04   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:04   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:05   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:07   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:07   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:07   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:09   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:09   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:10   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:11   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:11   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:12   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:14   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:14   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:14   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:17   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:17   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:17   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:19   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:19   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:20   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:22   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:22   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:22   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:25   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:25   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:25   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:29   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:29   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:29   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:31   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:31   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:31   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:33   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:33   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:33   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:45:35   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:45:36   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:45:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:46:45   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:46:45   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:46:45   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:46:46   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:46:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:46:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:46:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:46:48   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:46:48   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:46:48   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:46:48   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:46:48   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:46:51   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:46:51   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:46:51   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:46:56   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:46:56   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:46:57   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:47:02   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:47:02   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:47:02   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:47:05  ERROR [org.example.pages.CartPage] : Can not open https://www.mate.ua/cart-page
+2023-28-08 13:47:55   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:47:55   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:47:55   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:47:58   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:47:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:47:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:47:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:47:59   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:48:02   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:02   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:05   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:07   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:07   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:10   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:13   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:13   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:16   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:18   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:18   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:22   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:23   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:23   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:27   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:29   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:29   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:33   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:35   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:35   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:38   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:40   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:40   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:44   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:46   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:46   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:49   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:51   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:51   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:48:54   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:48:56   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:48:56   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:49:00   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:49:00   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:05   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:52:05   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:52:05   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:52:07   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:52:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:52:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:52:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:52:07   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:52:08   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:52:08   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:52:08   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:52:08   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:52:08   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:52:10   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:10   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:14   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:15   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:15   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:19   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:21   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:21   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:24   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:30   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:32   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:32   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:35   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:38   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:38   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:41   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:52:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:52:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:52:47   INFO [org.example.pages.CartPage] : 3 was inputted into input 
+2023-28-08 13:52:47  ERROR [org.example.pages.CartPage] : Can not open https://www.mate.ua/cart-page
+2023-28-08 13:53:16   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:53:16   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:53:16   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:53:17   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:53:18   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:53:18   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:53:18   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:53:18   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:53:18   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:53:21   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:53:21   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:53:31   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:53:33   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:53:33   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:53:43   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:53:47   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:53:47   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:53:58   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:54:01   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:54:01   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:54:11   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:54:13   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:33   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:55:33   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:55:33   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:55:33   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:55:35   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:55:35   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:55:35   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:55:35   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:55:35   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:55:38   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:38   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:38   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:41   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:41   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:41   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:43   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:43   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:44   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:46   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:46   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:47   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:49   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:49   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:49   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:51   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:51   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:51   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:55:54   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:55:54   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:55:54   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:58:21   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 13:58:21   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 13:58:21   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 13:58:21   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 13:58:24   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 13:58:24   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 13:58:24   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 13:58:24   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 13:58:24   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 13:58:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:58:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:58:28   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:58:30   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:58:30   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:58:30   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 13:58:32   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 13:58:32   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 13:58:33   INFO [org.example.pages.CartPage] : 3 was inputted into input Обрати кількість
+2023-28-08 14:04:43   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:04:43   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:04:44   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 14:04:45   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:04:46   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:46   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:46   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:46   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:47   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:47   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:04:47   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:04:47   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:04:47   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:04:48   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:04:48   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:04:50   INFO [org.example.pages.CartPage] : Шкарпетки сірі Element was clicked
+2023-28-08 14:04:50   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:50   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:50   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:50   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:04:51   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:04:52   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:04:52   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:04:54   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:04:54   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:05:49   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:05:50   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:05:50   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки сірі' was opened
+2023-28-08 14:05:52   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:05:52   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:52   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:05:53   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:05:56   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:05:56   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:05:56   INFO [org.example.pages.CartPage] : Шкарпетки сірі Element was clicked
+2023-28-08 14:05:57   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:57   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:57   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:57   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:57   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:05:58   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:06:00   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:06:00   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:09:51   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-28-08 14:09:55   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-28-08 14:09:58   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:09:58   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:09:58   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:09:59   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:10:15   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:10:15   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:10:15   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:10:15   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:10:15   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:10:18   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:10:18   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:10:18   INFO [org.example.pages.CartPage] : Шкарпетки зелені Element was clicked
+2023-28-08 14:10:34   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:10:34   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:10:34   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:10:34   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:10:34   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:10:36   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:10:36   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:10:36   INFO [org.example.pages.CartPage] : Total sum is as expected: 1200,000000
+2023-28-08 14:10:37   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-28-08 14:10:37   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
+2023-28-08 14:11:01   INFO [org.example.CartSumCheckTest] : ----checkCartSum was started----
+2023-28-08 14:11:05   INFO [org.example.CartSumCheckTest] : Browser was opened
+2023-28-08 14:11:08   INFO [org.example.pages.AllProductsPage] : Page https://www.mate.ua/shop was opened
+2023-28-08 14:11:08   INFO [org.example.pages.AllProductsPage] : All products page was opened
+2023-28-08 14:11:08   INFO [org.example.pages.AllProductsPage] : Product 'Шкарпетки зелені' was opened
+2023-28-08 14:11:10   INFO [org.example.pages.AllProductsPage] :  Element was clicked
+2023-28-08 14:11:25   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:11:25   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:11:25   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:11:25   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:11:25   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:11:27   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:11:27   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:11:28   INFO [org.example.pages.CartPage] : Шкарпетки зелені Element was clicked
+2023-28-08 14:11:44   INFO [org.example.pages.ProductPage] :  Element was clicked
+2023-28-08 14:11:44   INFO [org.example.pages.ProductPage] : 36-39 Element was clicked
+2023-28-08 14:11:44   INFO [org.example.pages.ProductPage] : Size was selected
+2023-28-08 14:11:44   INFO [org.example.pages.ProductPage] : Додати в кошик Element was clicked
+2023-28-08 14:11:44   INFO [org.example.pages.ProductPage] : Product was added to cart
+2023-28-08 14:11:46   INFO [org.example.pages.CartPage] : Page https://www.mate.ua/cart-page was opened
+2023-28-08 14:11:46   INFO [org.example.pages.CartPage] : Cart page was opened
+2023-28-08 14:11:46   INFO [org.example.pages.CartPage] : Total sum is as expected: 1200,000000
+2023-28-08 14:11:47   INFO [org.example.CartSumCheckTest] : Browser was closed
+2023-28-08 14:11:47   INFO [org.example.CartSumCheckTest] : ----checkCartSum was ended----
